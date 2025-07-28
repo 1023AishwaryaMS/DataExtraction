@@ -68,5 +68,6 @@ Scene 2:
 
 ---
 
-**Author:** _Your Name Here_  
-**License:** MIT (or your preferred license)
+**Author:** _Aishwarya MS
+**License:** Copy Right
+
